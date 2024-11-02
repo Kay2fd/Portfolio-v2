@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 // icons
 import {
   HiHome,
